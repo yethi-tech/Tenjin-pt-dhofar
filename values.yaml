@@ -37,7 +37,7 @@ Grafana:
 InfluxDB:
   image: "influxdb:2.7"
   username: "admin" # InfluxDB admin username
-  influx-db-pass: "Admin@123" # InfluxDB admin password
+  influxdbpass: "Admin@123" # InfluxDB admin password
   org: "jmeter" # Organization name for InfluxDB
   bucket: "jmeter" # Bucket name for storing data
   retention: "30d" # Data retention period
