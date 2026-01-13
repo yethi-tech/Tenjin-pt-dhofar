@@ -3,12 +3,12 @@ entries:
   tenjin-pt-dhofar:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T19:53:15.5034258+05:30"
+    created: "2026-01-13T20:18:43.7667856+05:30"
     description: A Helm chart for Kubernetes
-    digest: a87ccd16aa68d2c744c21fcdb393830d80fdfd50da865baf5edf531ddcefe732
+    digest: 643f00fdb011e86b6dff179547d466330444a9320da0326cfbb52e639f135adc
     name: tenjin-pt-dhofar
     type: application
     urls:
     - https://yethi-tech.github.io/Tenjin-pt-dhofar/tenjin-pt-dhofar-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-13T19:53:15.4959235+05:30"
+generated: "2026-01-13T20:18:43.7646078+05:30"
